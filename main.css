@@ -1,0 +1,29 @@
+* {
+	box-sizing: border-box;;
+}
+
+.header {
+	width: 20%;
+	margin: 0 auto;
+	padding-bottom: 20px;
+}
+
+
+section {
+	display: flex;
+}
+
+article {
+	margin-left: 10px;
+	padding-left: 15px;
+	background: #CFD0CF;
+}
+
+.inlineFooter {
+	margin-left: 10px;
+	display: inline-block;
+}
+
+small {
+	font-size: smaller;
+}
